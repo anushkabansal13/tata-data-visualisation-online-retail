@@ -54,7 +54,7 @@ Eight key business questions were developed to align with leadership priorities.
 ---
 **Dashboard**
 
-image: (https://github.com/anushkabansal13/tata-data-visualisation-online-retail/blob/main/Online%20Retail%20Dashboard.png?raw=true)
+image: [([https://github.com/anushkabansal13/tata-data-visualisation-online-retail/blob/main/Online%20Retail%20Dashboard.png?raw=true](https://github.com/anushkabansal13/tata-data-visualisation-online-retail/blob/main/Online%20Retail%20Dashboard.png?raw=true))]
 
 
 
