@@ -51,6 +51,10 @@ Eight key business questions were developed to align with leadership priorities.
 
 **Result:** Clear visuals for decision-making, highlighting strengths, growth areas, and trends.
 
+---
+**Dashboard**
+
+
 
 ---
 
