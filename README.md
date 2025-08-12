@@ -52,13 +52,6 @@ Eight key business questions were developed to align with leadership priorities.
 **Result:** Clear visuals for decision-making, highlighting strengths, growth areas, and trends.
 
 ---
-**Dashboard**
-
-image: [([https://github.com/anushkabansal13/tata-data-visualisation-online-retail/blob/main/Online%20Retail%20Dashboard.png?raw=true](https://github.com/anushkabansal13/tata-data-visualisation-online-retail/blob/main/Online%20Retail%20Dashboard.png?raw=true))]
-
-
-
----
 
 ## ✅ Task 3 – Creating Effective Visuals
 
