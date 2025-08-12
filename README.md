@@ -53,7 +53,8 @@ Eight key business questions were developed to align with leadership priorities.
 
 ---
 **Dashboard**
-[https://github.com/anushkabansal13/tata-data-visualisation-online-retail/blob/main/Online%20Retail%20Dashboard.png?raw=true]
+
+image: (https://github.com/anushkabansal13/tata-data-visualisation-online-retail/blob/main/Online%20Retail%20Dashboard.png?raw=true)
 
 
 
@@ -168,8 +169,11 @@ This project was part of the **Tata Data Visualisation: Empowering Business with
 ## 👩‍💻 Author
 **Anushka Bansal**  
 Data Analyst | Business Intelligence Enthusiast | Power BI Developer
+
 Email:[anushkabansalhere@gmail.com]
+
 LinkedIn:[www.linkedin.com/in/anushkabansal13]
+
 Portfolio:[https://www.datascienceportfol.io/anushkabansalhere]
 
 ---
